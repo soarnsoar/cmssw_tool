@@ -1,0 +1,5 @@
+
+   echo "-n : number of events";
+   echo "-g : gridpack location";
+   echo "-f : fragment file name";
+   echo "-t : name tag of python output"
